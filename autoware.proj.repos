@@ -24,15 +24,15 @@ repositories:
   # simulator
   simulator/planning_simulator:
     type: git
-    url: https://github.com/tier4/planning_simulator.iv.universe.git
+    url: git@github.com:k0suke-murakami/planning_simulator.iv.universe.git
     version: ros2
   simulator/planning_simulator_launcher:
     type: git
-    url: https://github.com/tier4/planning_sim_launcher.iv.universe.git
+    url: git@github.com:k0suke-murakami/planning_sim_launcher.iv.universe.git
     version: ros2
   simulator/scenario_runner:
     type: git
-    url: https://github.com/tier4/scenario_runner.iv.universe.git
+    url: git@github.com:k0suke-murakami/scenario_runner.iv.universe.git
     version: ros2
   # vendor
   vendor/grid_map:
